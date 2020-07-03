@@ -12,4 +12,3 @@
 ![](https://raw.githubusercontent.com/shatteredsword/pi-jumbotron/master/photos/IMG_20181116_125128-01%20-%20Copy.jpg)
 ![](https://raw.githubusercontent.com/shatteredsword/pi-jumbotron/master/photos/IMG_20181116_152153%20-%20Copy.jpg)
 ![](https://raw.githubusercontent.com/shatteredsword/pi-jumbotron/master/photos/IMG_20181116_152201%20-%20Copy.jpg)
-![](https://github.com/shatteredsword/pi-jumbotron/blob/master/photos/VID_20181116_151113%20-%20Copy.mp4?raw=true)
